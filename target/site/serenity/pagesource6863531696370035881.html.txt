@@ -1,0 +1,455 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:vtex="http://www.vtex.com.br/2009/vtex-common" xmlns:vtex.cmc="http://www.vtex.com.br/2009/vtex-commerce"><head><meta name="language" content="es-CO">
+<meta name="country" content="COL">
+<meta name="currency" content="$">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="format-detection" content="telephone=no"><meta property="og:site_name" content="Tiendas Metro Colombia"><meta property="og:type" content="website"><meta name="dcterms.language" content="ES"><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="En tiendas Metro encontrarás una gran variedad de ofertas y promociones todos los días. Descubre una nueva forma de ahorrar.">
+<meta name="Abstract" content="Supermercados y Tiendas Metro Colombia">
+<meta name="author" content="metrocolombiafood">
+<meta name="copyright" content="metrocolombiafood">
+<meta name="vtex-version" content="1.4.1321.2048">
+<meta http-equiv="pragma" content="no-cache">
+<title>Supermercados y Tiendas Metro Colombia</title><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//static.hotjar.com/c/hotjar-376780.js?sv=5"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//static.hotjar.com/c/hotjar-762323.js?sv=5"></script><script src="https://connect.facebook.net/signals/config/954684501540800?v=2.9.4&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.9.4" async=""></script><script src="https://connect.facebook.net/signals/config/321840911355375?v=2.9.4&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2MNZDG"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="javascript">var jscheckoutUrl = 'https://www.tiendasmetro.co/checkout/#/cart';var jscheckoutAddUrl = 'https://www.tiendasmetro.co/checkout/cart/add';var jscheckoutGiftListId = '';var jsnomeSite = 'metrocolombiafood';var jsnomeLoja = 'metrocolombiafood';var jssalesChannel = '3';var defaultStoreCurrency = '$';var localeInfo = {"CountryCode":"COL","CultureCode":"es-CO","CurrencyLocale":{"RegionDisplayName":"Colombia","RegionName":"CO","RegionNativeName":"Colombia","TwoLetterIsoRegionName":"CO","CurrencyEnglishName":"Colombian Peso","CurrencyNativeName":"Peso","CurrencySymbol":"$","ISOCurrencySymbol":"COP","Locale":9226,"Format":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","CurrencyGroupSeparator":".","CurrencyGroupSize":3,"StartsWithCurrencySymbol":true},"FlagUrl":"http://www.geonames.org/flags/x/co.gif"}};</script> 
+<script type="text/javascript" language="javascript">vtxctx = {"searchTerm":"","isOrder":"0","isCheck":"0","isCart":"0","actionType":"","actionValue":"","login":null,"url":"www.tiendasmetro.co","transurl":"www.tiendasmetro.co"};</script> 
+<script language="javascript" src="https://io.vtex.com.br/front-libs/jquery/1.8.3/jquery-1.8.3.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/swfobject.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/vtex.ajax.wait.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/vtex.common.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://unpkg.com/@vtex/render-extension-loader@0.1.6/lib/render-extension-loader.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-i18n/0.7.2/vtex-i18n.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/front-utils/3.0.8/underscore-extensions.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/currency-format.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/front-libs/dustjs-linkedin/2.3.5/dust-core-2.3.5.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/rc/rc.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/vtex.tagmanager.helper.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.12.11/scripts/vtex-events-all.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/portal-ui/1.12.11/scripts/vtex-analytics.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://io.vtex.com.br/vtex.js/2.10.1/vtex.min.js?v=1.4.1321.2048" type="text/javascript"></script>
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,300,600,700" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/files/select2.min.css"><link rel="stylesheet" type="text/css" href="/files/mprogress.css"><link rel="stylesheet" type="text/css" href="/files/swiper.min.css"><link rel="stylesheet" type="text/css" href="/files/font-face.css"><link rel="stylesheet" type="text/css" href="/files/global.css"><link rel="stylesheet" type="text/css" href="/files/newLook-min.css"><link rel="stylesheet" type="text/css" href="/files/fuente-jumbo.css"><link rel="stylesheet" type="text/css" href="/files/header-footer.css"><link href="/arquivos/newLook-min.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="/files/fix-temp.css"><link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link rel="stylesheet" href="/files/checkout5-custom.css"><link rel="stylesheet" href="/files/header-footer.css"><link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"><script src="/files/lodash.js" type="text/javascript" charset="utf-8"></script><script src="/files/handlebars.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/select2.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/store.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/jquery-accordion.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/slick.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/manifest.js" type="text/javascript" charset="utf-8"></script><script src="/files/vendor.js" type="text/javascript" charset="utf-8"></script><script src="/arquivos/enhanced_270218.js?v=636704826262430000" type="text/javascript"></script><script src="/files/fizzmod.js" type="text/javascript" charset="utf-8"></script><script src="/files/fizzmod.reviews.js" charset="utf-8"></script><script src="/files/fizzmod.minicart.js" type="text/javascript" charset="utf-8"></script><script src="/files/fizzmod.shoplist.js" type="text/javascript" charset="utf-8"></script><script src="/files/fizzmod.catalog.js" type="text/javascript" charset="utf-8"></script><script src="/files/dynamicMenu.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/header-footer.js" type="text/javascript" charset="utf-8"></script><script src="/files/cartSummary.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/jquery-prototype-extended.js" type="text/javascript" charset="utf-8"></script><script id="product-item-template" type="text/x-handlebars-template"><div class="product-item product-item--{{productId}} gotten-product-item-data {{#each classModifier}} product-item--{{.}}{{/each}}" data-id="{{productId}}" data-uri="{{link}}"><div class="product-item__image-wrapper"><div class="product-item__actions"><a href="{{link}}" class="product-item__action product-item__action--quickview btn dark font-icn view-more" data-tooltip="Vista Rápida" data-tooltip-pos="top"></a><button class="product-item__action product-item__action--add-shop-list btn dark font-icn add-to-list" data-overlay="add-shop-list" data-tooltip="Agregar a Lista" data-tooltip-pos="top"></button></div><a class="product-item__image-link" href="{{link}}"><img width="{{imageWidth}}" height="{{imageWidth}}" src="{{resizeImage imageSrc imageWidth imageWidth}}" /></a></div><div class="product-item__info"><a href="{{link}}" title="{{productName}}" class="product-item__name">{{productName}}</a><div class="product-item__brand">{{brand}}</div><div class="product-item__description">{{description}}</div>
+            {{#if available}}
+            <div class="product-prices__wrapper product-prices__wrapper{{#lte listPrice price}}--single{{else}}--better{{/lte}} {{#if hasDiscountPrice}}product-prices__wrapper--has-discounts {{#each discounts}}{{#noteq group 'info'}} product-prices__wrapper--has-{{group}}-discount {{/noteq}}{{/each}}{{/if}}">
+                {{#gt listPrice price}}
+                <div class="product-prices__price product-prices__price--former-price"><span class="product-prices__label">Precio Regular</span><span class="product-prices__value">
+			{{#if onlyPricePerUnit}}
+				{{formatPrice listPricePerUnit}} /{{measurementUnitVisual}}
+			{{else}}
+				{{formatPrice listPrice}}
+			{{/if}}
+			</span></div>
+                {{/gt}}
+                <div class="product-prices__price product-prices__price{{#lte listPrice price}}--regular-price{{else}}--better-price{{/lte}}"><span class="product-prices__label">{{#lte listPrice price}}{{else}}Precio Ahora{{/lte}}</span><span class="product-prices__value" data-price="{{price}}" data-unit_multiplier="{{unitMultiplier}}">
+				{{#if onlyPricePerUnit}}
+					{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}
+				{{else}}
+					{{formatPrice price}}
+				{{/if}}
+			</span></div>
+                {{#if hasPricePerUnit}}
+                <div class="product-prices__price product-prices__price--price-per-unit">{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}</div>
+                {{/if}} {{#each discounts}} {{#noteq group 'info'}}
+                <div class="product-prices__price product-prices__price--promo-price product-prices__price--{{group}}-price"><span class="product-prices__label"><span class="product-prices__label--discount-name">{{amountDescription}}</span><span class="product-prices__label--discount-label">{{description}}</span></span><span class="product-prices__value" style="{{#if groupColor}}color: #{{groupColor}};{{/if}}">{{formatPrice price}}</span></div>
+                {{/noteq}} {{/each}}
+            </div>
+            {{else}}
+            <div class="product-item__price product-item__no-stock prices-formatted"><div class="font-icn alert"></div><div class="text">Sin Stock</div></div>
+            {{/if}}
+        </div><div class="product-item__controls"><div class="product-item__quantity product-quantity" data-measurementunit="un" data-unitmultiplier="1" data-cartlimit="{{cartLimit}}"><input type="text" value="{{quantity}}" class="product-quantity__input" style="display: {{#eq quantityMode 'measurementUnit'}}block{{else}}none{{/eq}}" /><input type="text" value="{{quantity}}" class="product-quantity__input--hidden" style="display: {{#eq quantityMode 'unit'}}block{{else}}none{{/eq}}" data-sku="{{items.0.itemId}}" /><div class="product-quantity__controls"><button class="product-quantity__control product-quantity__control--increase font-icn plus {{#unless available}}product-quantity__control--disabled{{/unless}}"></button><button class="product-quantity__control product-quantity__control--decrease font-icn minus {{#unless available}}product-quantity__control--disabled{{/unless}} {{#gt 2 quantity}}product-quantity__control--disabled{{/gt}} {{available}}"></button></div></div><button class="product-item__add-to-cart product-add-to-cart btn red add-to-cart {{#unless available}}disabled{{/unless}}" data-productid="{{productId}}" data-sku="{{items.0.itemId}}" data-sellerid="{{sellerId}}"><span class="font-icn plus"></span><span class="font-icn check"></span><span class="product-add-to-cart__text product-add-to-cart__text--success">Agregado</span><span class="font-icn shopping-cart"></span><span class="product-add-to-cart__text">Agregar</span></button></div>
+        {{#if cartAmount}}
+        <div class="product-item__cart-amount"><span class="font-icn check"></span><span class="value">{{cartAmount}}</span><span class="text">en el carrito</span></div>
+        {{/if}}
+    </div></script><script id="minicart-product-item-template" type="text/x-handlebars-template"><div class="product-item product-item--{{productId}} gotten-product-item-data {{#each classModifier}} product-item--{{.}}{{/each}} cat-{{sanitize category}}{{#unless available}} unavailable{{/unless}}" data-id="{{productId}}" data-index="{{index}}" data-uri="{{detailUrl}}"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><button button="type" class="item-remove font-icn cross" data-index="{{index}}"></button><a href="{{detailUrl}}" title="{{name}}" class="product-item__image-wrapper"><img src="{{imageUrl}}" alt="{{name}}" /></a><div class="product-item__info"><a href="{{detailUrl}}" title="{{name}}" class="product-item__name">{{name}}</a><div class="product-item__brand">{{additionalInfo.brandName}}</div>
+            {{#if available}}
+            <div class="product-prices__wrapper product-prices__wrapper{{#lte listPrice price}}--single{{else}}--better{{/lte}} {{#if hasDiscountPrice}}product-prices__wrapper--has-discounts {{#each discounts}}{{#noteq group 'info'}} product-prices__wrapper--has-{{group}}-discount {{/noteq}}{{/each}}{{/if}}">
+                {{#gt listPrice price}}
+                <div class="product-prices__price product-prices__price--former-price"><span class="product-prices__label">Precio Regular</span><span class="product-prices__value">
+			{{#if onlyPricePerUnit}}
+				{{formatPrice listPricePerUnit}} /{{measurementUnitVisual}}
+			{{else}}
+				{{formatPrice listPrice}}
+			{{/if}}
+			</span></div>
+                {{/gt}}
+                <div class="product-prices__price product-prices__price{{#lte listPrice price}}--regular-price{{else}}--better-price{{/lte}}"><span class="product-prices__label">{{#lte listPrice price}}{{else}}Precio Ahora{{/lte}}</span><span class="product-prices__value" data-price="{{price}}" data-unit_multiplier="{{unitMultiplier}}">
+				{{#if onlyPricePerUnit}}
+					{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}
+				{{else}}
+					{{formatPrice price}}
+				{{/if}}
+			</span></div>
+                {{#if hasPricePerUnit}}
+                <div class="product-prices__price product-prices__price--price-per-unit">{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}</div>
+                {{/if}} {{#each discounts}} {{#noteq group 'info'}}
+                <div class="product-prices__price product-prices__price--promo-price product-prices__price--{{group}}-price"><span class="product-prices__label"><span class="product-prices__label--discount-name">{{amountDescription}}</span><span class="product-prices__label--discount-label">{{description}}</span></span><span class="product-prices__value" style="{{#if groupColor}}color: #{{groupColor}};{{/if}}">{{formatPrice price}}</span></div>
+                {{/noteq}} {{/each}}
+            </div>
+            {{else}}
+            <div class="product-item__price product-item__no-stock prices-formatted"><div class="font-icn alert"></div><div class="text">Sin Stock</div></div>
+            {{/if}}
+        </div>
+        {{#eq measurementUnit "UN"}}
+        <div class="product-item__quantity product-quantity product-quantity--one-col product-quantity--minicart" data-measurementunit="{{measurementUnitSelector}}" data-unitmultiplier="{{unitMultiplierSelector}}"><button class="product-quantity__control product-quantity__control--increase font-icn plus item-quantity-more {{#unless available}}product-quantity__control--disabled{{/unless}}"></button><input type="text" value="{{unitMultiplierQuantity}}" disabled="true" class="product-quantity__input" /><button class="product-quantity__control product-quantity__control--decrease font-icn minus item-quantity-less {{#unless available}}product-quantity__control--disabled{{/unless}} {{#gt 2 quantity}}product-quantity__control--disabled{{/gt}}"></button></div>
+        {{else}}
+        <div class="product-item__quantity product-quantity product-quantity--one-col product-quantity--minicart" data-measurementunit="{{measurementUnitSelector}}" data-unitmultiplier="{{unitMultiplierSelector}}"><button class="product-quantity__control product-quantity__control--increase font-icn plus item-quantity-more {{#unless available}}product-quantity__control--disabled{{/unless}}"></button><input type="text" value="{{unitMultiplierQuantity}}" disabled="true" class="product-quantity__input" /><button class="product-quantity__control product-quantity__control--decrease font-icn minus item-quantity-less {{#unless available}}product-quantity__control--disabled{{/unless}} {{#gt 2 quantity}}product-quantity__control--disabled{{/gt}}"></button></div>
+        {{/eq}}
+    </div></script><script type="text/javascript">
+
+    var productShelfTemplate = "982a72af-cb5a-4356-bf8a-3f22713f09dd";
+
+</script><link rel="apple-touch-icon" sizes="57x57" href="/arquivos/favIcon-metro-57x57.png?v=636781787594630000"><link rel="apple-touch-icon" sizes="60x60" href="/arquivos/favIcon-metro-60x60.png?v=636781787604600000"><link rel="apple-touch-icon" sizes="72x72" href="/arquivos/favIcon-metro-72x72.png?v=636781787614630000"><link rel="apple-touch-icon" sizes="76x76" href="/arquivos/favIcon-metro-76x76.png?v=636781787624630000"><link rel="apple-touch-icon" sizes="114x114" href="/arquivos/favIcon-metro-114x114.png?v=636781787644900000"><link rel="apple-touch-icon" sizes="120x120" href="/arquivos/favIcon-metro-120x120.png?v=636781787654670000"><link rel="apple-touch-icon" sizes="144x144" href="/arquivos/favIcon-metro-144x144.png?v=636781787664700000"><link rel="apple-touch-icon" sizes="152x152" href="/arquivos/favIcon-metro-152x152.png?v=636781787674830000"><link rel="apple-touch-icon" sizes="180x180" href="/arquivos/favIcon-metro-180x180.png?v=636781787684830000"><link rel="icon" type="image/png" sizes="192x192" href="/arquivos/favIcon-metro-192x192.png?v=636781787694800000"><link rel="icon" type="image/png" sizes="32x32" href="/arquivos/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="/arquivos/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="/arquivos/favicon-16x16.png"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="/arquivos/ms-icon-144x144.png?v=636781787704670000"><meta name="theme-color" content="#DF0209"><style>
+            .terms-text.warning:before {display: none !important;}.terms-text.checkWarning:before {border: 2px solid #DF0209 !important;}
+        </style><script language="javascript">var ___scriptPathTransac = '';</script><script language="javascript">var ___scriptPath = '';</script><link rel="canonical" href="https://www.tiendasmetro.co/"><script async="" src="https://script.hotjar.com/modules.006e5402d1341dbb34b1.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/726830709/?random=1567656889020&amp;cv=9&amp;fst=1567656889020&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=4&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa8l2&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.tiendasmetro.co%2Fcart&amp;ref=https%3A%2F%2Fwww.tiendasmetro.co%2F&amp;tiba=Supermercados%20y%20Tiendas%20Metro%20Colombia&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><link type="text/css" rel="stylesheet" href="blob:https://www.tiendasmetro.co/d5f782f9-97a3-4f16-9e36-d81e8901f7bc"><link type="text/css" rel="stylesheet" href="blob:https://www.tiendasmetro.co/72f8bae0-482f-4708-a457-90919eba6fb2"><link type="text/css" rel="stylesheet" href="blob:https://www.tiendasmetro.co/a551afa8-2305-402c-8ceb-7aac337c4f3f"></head>
+  <body id="cart-page" class="cart is-food-site sc-2 bogota-san-cayetano sc-3 has-substitutes"><div id="ajaxBusy" class="load loading"><p>Aguarde...</p></div>
+<!-- Start - WebAnalyticsViewPart -->
+<script> var defaultUtmFromFolder = '';</script>
+<!-- CommerceContext.Current.VirtualFolder.Name: Cart -->
+
+<script>
+vtex.events.addData({"pageCategory":"cart","pageDepartment":null,"pageUrl":"http://www.tiendasmetro.co/cart","pageTitle":"Supermercados y Tiendas Metro Colombia","skuStockOutFromShelf":[],"skuStockOutFromProductDetail":[],"shelfProductIds":[],"accountName":"metrocolombiafood","pageFacets":[]});
+</script>
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                            })(window,document,'script','dataLayer','GTM-K2MNZDG');
+</script>
+
+<script>
+var helper = new vtexTagManagerHelper('otherView'); helper.init();
+</script>
+
+<!-- End - WebAnalyticsViewPart -->
+<div class="ajax-content-loader" rel="/no-cache/callcenter/disclaimer">
+<!-- CallCenter -->
+</div><!-- HANDLEBAR TEMPLATES/ --><!-- Category filter template --><script id="category-filter-template" type="text/x-handlebars-template"><button type="button" class="filter-category cat-{{sanitize category}} {{#if active}}active{{/if}}" data-category="{{category}}" data-tooltip="{{category}}" data-tooltip-pos="top"><div class="font-icn-cat cat-{{sanitize category}}"></div><div class="quantity">{{quantity}}</div></button></script><!-- Category filter template --><div id="no-availability-items" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content substitute-phone substitute-phone--overlay overlay-no-availability"></div></div></div><script id="no-availability-items-wrapper" type="text/x-handlebars-template"><p class="overlay-no-availability__text"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i><span>Ten en cuenta que algunos de tus productos pueden no estar disponibles en este momento para la ciudad seleccionada donde deseas comprar
+    </span></p><div class="overlay-no-availability__wrapper">
+  {{#each .}}
+  <div class="item-no-availability"><div><img src="{{imageUrl}}" class="item-no-availability__image" alt="" /><span class="item-no-availability__name">{{skuName}}</span></div><span class="item-no-availability__price">{{formatPrice (divide sellingPrice 100)}}</span></div>
+  {{/each}}
+  </div><p class="overlay-no-availability__info"></p><button class="overlay-no-availability__button overlay__close">OK</button></script><div id="delivery-window-paper-gift" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content"><div id="paper-gift-container"><div class="wrapper-overlay"><div class="title-gift"><h3><span class="font-icn-cat gift-small"></span>Envolver para Regalo</h3></div><div class="data-target example-enter example-enter example-enter-active"><p class="text-description">Escribe los datos y un mensaje opcional para la tarjeta:</p><div class="data-target__data  "><input name="from" type="text" class="from" value=""><input name="to" type="text" class="to" value=""></div><div class="data-target__text  "><textarea maxlength="80" name="message"></textarea></div><div class="button-paper"><button class="button-paper__btn" type="button" data-from="data" data-to="quantity" disabled="">siguiente</button></div></div></div></div></div></div></div><link rel="stylesheet" href="/files/overlay-paper-gift.css"><div id="delivery-window-paper-gift-remove" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content"><div class="gift-remove-container"><p class="gift-remove-container__title">¿Seguro quieres eliminar las preferencias de regalo?</p><div class="gift-remove-container__btn-wrapper"><button type="button" class="gift-remove-container__btn gift-remove-container__btn--close close">No eliminar</button><button type="button" class="gift-remove-container__btn gift-remove-container__btn--delete delete-gift ">Eliminar Definitivamente</button></div></div></div></div></div><script id="add-shop-list-item-template" type="text/x-handlebars-template"><div class="list-item list-item--add-item {{#if added}}list-item--added{{/if}}" data-id="{{id}}"><div class="list-item__name"><div class="list-item__added-cross font-icn cross"></div><div class="list-item__added-check font-icn check"></div><div class="name">{{name}}</div></div><div class="list-item__quantity product-quantity"><input type="text" value="{{quantity}}" disabled="true" class="product-quantity__input" /><input type="hidden" value="{{quantity}}" disabled="true" class="product-quantity__input--hidden" /><div class="product-quantity__controls"><button class="product-quantity__control product-quantity__control--increase font-icn plus"></button><button class="product-quantity__control product-quantity__control--decrease {{#lt quantity 1}}product-quantity__control--disabled{{/lt}} font-icn minus"></button></div></div></div></script><div id="add-shop-list" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content"><div class="add-shop-list"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><div class="add-shop-list__title"><span class="font-icn lists"></span><span>Agregar a una lista</span></div><div class="add-shop-list__create create-shop-list"><input type="text" placeholder="Crear una lista nueva" class="create-shop-list__input--list-name"><button type="button" class="create-shop-list__submit btn second-border"><div class="text">Crear</div></button></div><div class="add-shop-list__lists-wrapper"><div class="add-shop-list__lists-container"><div class="add-shop-list__lists"></div></div><div class="add-shop-list__actions"><button type="button" class="add-shop-list__action add-shop-list__action--save-changes add-shop-list__action--disabled btn second"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><span class="font-icn check"></span><span class="text">Guardar</span></button></div></div><div class="add-shop-list__no-lists"><div class="icn annotator "></div><div class="add-shop-list__no-lists-message add-shop-list__no-lists-message--gray">
+					Todavía no tienes ninguna lista creada.
+				</div><div class="add-shop-list__no-lists-message">
+					Crea una nueva lista para comenzar.
+				</div></div></div></div></div></div><div id="bag-adder" class="overlay" style="display: none;"><div class="overlay__wrapper"><div class="overlay__content"><div id="bag-adder-root"><div class="bag-adder bag-adder--confirmation"><div class="bag-adder__content"><button type="button" class="overlay__cross"><div class="font-icn cross"></div></button><div class="bag-adder__title"><span class="bag-adder__title-icon font-icn bag"></span><span class="bag-adder__title-text">Agregar bolsas</span></div><div class="bag-adder__confirmation-message-wrapper"><div class="bag-adder__confirmation-main-message">Colombia avanza en la regulación de las Bolsas Plásticas, a partir de este 1 de Julio de 2017 entra en vigencia La Ley 1819 de 2016, donde los establecimientos comerciales como Metro debemos recaudar el impuesto nacional al consumo de $40 pesos por cada bolsa plástica que recibas con tu pedido.</div><div class="bag-adder__confirmation-message-items">Tienes <span class="bag-adder__confirmation-quantity">2 items</span> en tu carrito.</div><div class="bag-adder__confirmation-question">¿Quieres que te empaquemos tu mercado en bolsas?</div></div><div class="bag-adder__actions bag-adder__actions--confirmation"><button class="bag-adder__action bag-adder__action--refuse btn gray-border">NO</button><button class="bag-adder__action bag-adder__action--accept btn second-border">SÍ</button></div></div></div></div></div></div></div><div class="modalMinPrice" style="display:none;"><div class="bgMsj"><div class="headerMsj"><div class="closeMsj" id="closeMsje">X</div></div><div class="bodyMsj"><div class="checkMsj"><img src="/arquivos/icono_carrito_min_price.png?v=636972736284870000" alt="Carrito vacío"></div><div class="textMsj">El valor mínimo de compra es de $25.000</div><div class="textBody">Puedes agregar más productos al carrito para finalizar tu compra</div></div><button class="callToAction" title="Seguir Comprando">Seguir comprando</button></div></div><div id="confirmation-empty-cart" class="overlay-wrapper" style="display: none;"><div class="v-center"><div class="h-center"><div class="overlay"><div class="overlay-background"></div><div class="overlay-content"><div class="icn attention"></div><div class="action-wrapper box-shadow-5"><div class="text">¡Atención!</div><div class="message">
+							¿Estás seguro que deseas vaciar tu carrito?
+						</div><div class="message message--quantity"></div><div class="actions clear-fix"><button type="button" class="btn second overlay__close overlay__confirm-empty"><span class="text">Confirmar</span></button><button type="button" class="btn gray-border overlay__close overlay__cancel-empty"><span class="text">Cancelar</span></button></div></div></div></div></div></div></div><!-- Product item template --><script id="cart-product-item-template" type="text/x-handlebars-template"><div class="product-item gotten-product-item-data product-item--{{id}}{{#each classModifier}} product-item--{{.}}{{/each}} {{#if category}}cat-{{sanitize category}}{{/if}}{{#unless available}} unavailable{{/unless}} {{hasSubstitute}} {{#if additionalOpen}}additional-open{{/if}} {{#if isInfoOpen}}open{{/if}}" data-id="{{id}}" data-sku="{{id}}" data-index="{{index}}"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><button button="type" class="item-remove font-icn cross" data-index="{{index}}"></button><a href="{{detailUrl}}" title="{{name}}" class="product-item__image-wrapper"><div class="product-item__cart-quantity mobile">
+                        x{{quantity}}
+                    </div><img width="90" height="90" src="{{resizeImage imageUrl 90 90}}" alt="{{name}}" /></a><div class="product-item__info"><a href="{{detailUrl}}" title="{{name}}" class="product-item__name">{{name}}</a><div class="product-item__brand">{{additionalInfo.brandName}}</div>
+                    {{#if isMobile}}
+
+
+                    {{#if available}}
+                    <div class="product-prices__wrapper product-prices__wrapper{{#lte listPrice price}}--single{{else}}--better{{/lte}} {{#if hasDiscountPrice}}product-prices__wrapper--has-discounts {{#each discounts}}{{#noteq group 'info'}} product-prices__wrapper--has-{{group}}-discount {{/noteq}}{{/each}}{{/if}}">
+
+                        {{#gt listPrice price}}
+                        <div class="product-prices__price product-prices__price--former-price"><span class="product-prices__label">Precio Regular</span><span class="product-prices__value">
+            {{#if onlyPricePerUnit}}
+                {{formatPrice listPricePerUnit}} /{{measurementUnitVisual}}
+            {{else}}
+                {{formatPrice listPrice}}
+            {{/if}}
+            </span></div>
+                        {{/gt}}
+
+                        <div class="product-prices__price product-prices__price{{#lte listPrice price}}--regular-price{{else}}--better-price{{/lte}}"><span class="product-prices__label">{{#lte listPrice price}}{{else}}Precio Ahora{{/lte}}</span><span class="product-prices__value" data-price="{{price}}" data-unit_multiplier="{{unitMultiplier}}">
+                {{#if onlyPricePerUnit}}
+                    {{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}
+                {{else}}
+                    {{formatPrice price}}
+                {{/if}}
+            </span></div>
+                        {{#if hasPricePerUnit}}
+                        <div class="product-prices__price product-prices__price--price-per-unit">{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}</div>
+                        {{/if}}
+
+                        {{#each discounts}}
+                        {{#noteq group 'info'}}
+                        <div class="product-prices__price product-prices__price--promo-price product-prices__price--{{group}}-price"><span class="product-prices__label"><span class="product-prices__label--discount-name">{{amountDescription}}</span><span class="product-prices__label--discount-label">{{description}}</span></span><span class="product-prices__value" style="{{#if groupColor}}color: #{{groupColor}};{{/if}}">{{formatPrice price}}</span></div>
+                        {{/noteq}}
+                        {{/each}}
+                    </div>
+
+                    {{else}}
+                    <div class="product-item__price product-item__no-stock prices-formatted"><div class="font-icn alert"></div><div class="text">Sin Stock</div></div>
+                    {{/if}}
+
+
+
+                    {{/if}}
+                    <div class="product-item__toggle-info mobile"><div class="font-icn plus"></div><div class="font-icn minus"></div></div></div>
+
+                {{#unless isMobile}}
+
+
+                {{#if available}}
+                <div class="product-prices__wrapper product-prices__wrapper{{#lte listPrice price}}--single{{else}}--better{{/lte}} {{#if hasDiscountPrice}}product-prices__wrapper--has-discounts {{#each discounts}}{{#noteq group 'info'}} product-prices__wrapper--has-{{group}}-discount {{/noteq}}{{/each}}{{/if}}">
+
+                    {{#gt listPrice price}}
+                    <div class="product-prices__price product-prices__price--former-price"><span class="product-prices__label">Precio Regular</span><span class="product-prices__value">
+            {{#if onlyPricePerUnit}}
+                {{formatPrice listPricePerUnit}} /{{measurementUnitVisual}}
+            {{else}}
+                {{formatPrice listPrice}}
+            {{/if}}
+            </span></div>
+                    {{/gt}}
+
+                    <div class="product-prices__price product-prices__price{{#lte listPrice price}}--regular-price{{else}}--better-price{{/lte}}"><span class="product-prices__label">{{#lte listPrice price}}{{else}}Precio Ahora{{/lte}}</span><span class="product-prices__value" data-price="{{price}}" data-unit_multiplier="{{unitMultiplier}}">
+                {{#if onlyPricePerUnit}}
+                    {{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}
+                {{else}}
+                    {{formatPrice price}}
+                {{/if}}
+            </span></div>
+                    {{#if hasPricePerUnit}}
+                    <div class="product-prices__price product-prices__price--price-per-unit">{{formatPricePerUnit pricePerUnit}} /{{measurementUnitVisual}}</div>
+                    {{/if}}
+
+                    {{#each discounts}}
+                    {{#noteq group 'info'}}
+                    <div class="product-prices__price product-prices__price--promo-price product-prices__price--{{group}}-price"><span class="product-prices__label"><span class="product-prices__label--discount-name">{{amountDescription}}</span><span class="product-prices__label--discount-label">{{description}}</span></span><span class="product-prices__value" style="{{#if groupColor}}color: #{{groupColor}};{{/if}}">{{formatPrice price}}</span></div>
+                    {{/noteq}}
+                    {{/each}}
+                </div>
+
+                {{else}}
+                <div class="product-item__price product-item__no-stock prices-formatted"><div class="font-icn alert"></div><div class="text">Sin Stock</div></div>
+                {{/if}}
+
+
+
+                {{/unless}}
+
+                <div class="product-item__quantity product-quantity product-quantity--has-switch product-quantity--one-col"><div class="product-quantity__input-wrapper"><button class="product-quantity__control product-quantity__control--increase font-icn plus item-quantity-more {{#unless available}}product-quantity__control--disabled{{/unless}}"></button><input type="text" value="{{unitMultiplierQuantity}}" class="product-quantity__input" style="display: {{#eq quantityMode 'measurementUnit'}}block{{else}}none{{/eq}}" /><input type="text" value="{{quantity}}" class="product-quantity__input--hidden" style="display: {{#eq quantityMode 'unit'}}block{{else}}none{{/eq}}" /><button class="product-quantity__control product-quantity__control--decrease font-icn minus item-quantity-less {{#unless available}}product-quantity__control--disabled{{/unless}} {{#gt 2 quantity}}product-quantity__control--disabled{{/gt}}"></button></div></div><div class="product-item__subtotal">
+                    {{#if available}} {{formatPrice totalPrice}} {{else}} Sin stock {{/if}}
+                </div>
+
+                {{#if available}}
+                <div class="product-item__substitute food-site">
+                    {{#if isFood}}
+                    <div class="column"><select class="select select-pref" data-placeholder="Seleccione un criterio"><option data-pref="6" value="6">Criterio Metro</option><option data-pref="2" value="2">No Sustituir</option><option data-pref="7" value="7">Por Teléfono</option><option class="placeholder" value="0" disabled="disabled">Seleccione un criterio</option></select><div class="product-item__view-substitutes" data-index="{{index}}">Ver sustitutos elegidos</div><div class="product-item__change-phone">Cambiar Teléfono</div></div><div class="column"><div class="btn second-border product-item__toggle-additional" data-index="{{index}}" data-tooltip="Agregar notas, Envolver para regalo" data-tooltip-pos="top" data-tooltip-show-active="{{#if additionalOpen}}true{{else}}false{{/if}}"><span class="open-text">MÁS OPCIONES</span><span class="close-text">CERRAR</span></div></div>
+                    {{/if}}
+                </div>
+
+                {{else}}
+                <div class="product-item__substitute"></div>
+                {{/if}}
+
+                <div class="product-item__additional"><div class="product-item__note"><div class="note-button"><span class="font-icn-cat icon-notes"></span>Agregar Notas</div><textarea name="product-note" class="product-note-input" maxlength="100" placeholder="Escribe un comentario sobre éste producto...">{{orderInfoSkuData.note}}</textarea></div><div class="gift-btn-wrapper"><button data-id="{{id}}" data-quantity="{{quantity}}" class="paper-gift-add hide-btn {{#if orderInfoSkuData.giftWrap}}active{{/if}}"><span class="font-icn check {{#if orderInfoSkuData.giftWrap}}{{else}}hide{{/if}}"></span><span class="font-icn-cat gift-small"></span><span>Envolver para Regalo</span></button>
+                        {{#if orderInfoSkuData.giftWrap}}
+                        <button class="js-delete-gift" data-sku="{{id}}"><span class="font-icn cross"></span>Eliminar preferencias de regalo</button>
+                        {{/if}}
+                    </div>
+
+
+                    {{#notEmptyObject services}}
+                    <div class="product-item__services"><div class="product-item__additional-title service-title">Servicios Adicionales</div><div class="product-item__services-wrapper">
+                            {{#each services}}
+                            <div class="product-item__service" data-id="{{@key}}"><label class="checkbox-item">
+                                    {{#if added}}
+                                    <input type="checkbox" name="service-checkbox" class="checkbox-input product-item__service-checkbox" data-index="{{../index}}" data-id="{{@key}}" checked="checked" />
+                                    {{else}}
+                                    <input type="checkbox" name="service-checkbox" class="checkbox-input product-item__service-checkbox" data-index="{{../index}}" data-id="{{@key}}" />
+                                    {{/if}}
+                                    <div class="checkbox-item__input"><div class="font-icn check"></div></div><div class="checkbox-item__label product-item__service-name">{{name}}</div></label></div>
+                            {{/each}}
+                        </div></div>
+                    {{/notEmptyObject}}
+
+                </div>
+                {{#noteq availability "available"}}
+                <div class="product-item__unavailable"><div class="font-icn alert error"></div><div class="unavailable-text">
+                        {{#eq availability "cannotBeDelivered"}}
+                        Este producto no se puede entregar a esta dirección
+                        {{/eq}}
+                        {{#noteq availability "cannotBeDelivered"}}
+                        El item no se encuentra disponible
+                        {{/noteq}}
+                    </div></div>
+                {{/noteq}}
+            </div></script><!-- Product item template --><!-- Totalizers template --><script id="cart-totalizers-template" type="text/x-handlebars-template"><div class="total-prices">
+                {{#if totalizers.length}}
+                {{#each totalizers}}
+                <div class="price clear-fix {{sanitize id}}"><div class="text pull-left">
+                        {{#eq id 'Items'}}Subtotal{{/eq}} {{#eq id 'Discounts'}}Descuentos{{/eq}} {{#eq id 'Shipping'}}
+                        Envío{{/eq}}
+                    </div><div class="value pull-right">
+                        {{formatPrice value}}
+                    </div></div>
+                {{/each}}
+                {{else}}
+                <p></p>
+                {{/if}}
+
+                <div class="price clear-fix total {{#unless totalizers.length}}zero{{/unless}}"><div class="text pull-left">Total</div><div class="value pull-right">{{formatPrice value}}</div></div><div class="price clear-fix total --cencosud"><div class="text pull-left"><span class="icn cencosud-card --small"></span><p class="detail">Pagando con <br /><strong>Tarjeta Cencosud</strong></p></div><div class="value pull-right"></div></div></div></script><!-- Totalizers template --><!-- Product substitute item template --><script id="product-substitute-template" type="text/x-handlebars-template"><div class="product-item gotten-product-item-data product-item--{{productId}}{{#each classModifier}} product-item--{{.}}{{/each}}" data-id="{{productId}}"><div class="product-item__image-wrapper"><img src="{{resizeImage items.0.images.0.imageUrl 219 219}}" /></div><div class="product-item__info"><a href="{{link}}" title="{{productName}}" class="product-item__name">{{productName}}</a><div class="product-item__brand">{{brand}}</div></div><div class="product-prices__wrapper {{#lte items.0.sellers.0.commertialOffer.ListPrice items.0.sellers.0.commertialOffer.Price}}product-prices__wrapper--single{{/lte}}{{#gt items.0.sellers.0.commertialOffer.ListPrice items.0.sellers.0.commertialOffer.Price}}product-prices__wrapper--better{{/gt}}">
+                    {{#lte items.0.sellers.0.commertialOffer.ListPrice items.0.sellers.0.commertialOffer.Price}}
+                    <div class="product-prices__price product-prices__price--regular-price"><span class="product-prices__label"></span><span class="product-prices__value">{{formatPrice items.0.sellers.0.commertialOffer.Price}}</span></div>
+                    {{/lte}}
+                    {{#gt items.0.sellers.0.commertialOffer.ListPrice items.0.sellers.0.commertialOffer.Price}}
+                    <div class="product-prices__price product-prices__price--former-price"><span class="product-prices__label">Precio Regular</span><span class="product-prices__value">{{formatPrice items.0.sellers.0.commertialOffer.ListPrice}}</span></div><div class="product-prices__price product-prices__price--better-price"><span class="product-prices__label"><span class="product-prices__label--discount-name">Precio Ahora</span></span><span class="product-prices__value">{{formatPrice items.0.sellers.0.commertialOffer.Price}}</span></div>
+                    {{/gt}}
+                </div><div class="product-item__controls"><button type="button" class="btn second add-substitute" data-id="{{items.0.itemId}}"><div class="font-icn cross"></div><div class="font-icn check"></div><div class="text">Seleccionar</div></button></div></div></script><!-- Product substitute item template --><!-- /HANDLEBAR TEMPLATES --><!-- Overlays --><div id="product-substitute-selection" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content"><div class="product-substitute-selection"><div class="product-substitute-selection__title">Productos sugeridos</div><div class="product-substitute-selection__subtitle">Elige dos de estos productos similares en orden de prioridad para sustituir tu producto en el caso de que sea necesario</div><div class="product-substitute-selection__slider-wrapper"><div class="product-substitute-selection__selections"><div class="product-substitute-selection__selection-text">Producto a sustituir</div><div class="product-substitute-selection__selection"><div class="product-substitute-selection__product product-substitute-selection__product--current"></div></div><div class="product-substitute-selection__selection-priority-text">Sustitutos por prioridad</div><div class="product-substitute-selection__selection-priority"><div class="product-substitute-selection__selection"><div class="product-substitute-selection__priority-number"><div class="number">1º</div><div class="font-icn cross remove-substitute" data-tooltip="Eliminar Sustituto" data-tooltip-pos="top" data-index="0"></div></div><div class="product-substitute-selection__empty-text">Todavía no has elegido ningún sustituto</div><div class="product-substitute-selection__product product-substitute-selection__product--priority-1"></div></div><div class="product-substitute-selection__selection"><div class="product-substitute-selection__priority-number"><div class="number">2º</div><div class="font-icn cross remove-substitute" data-tooltip="Eliminar Sustituto" data-tooltip-pos="top" data-index="1"></div></div><div class="product-substitute-selection__empty-text">Todavía no has elegido ningún sustituto</div><div class="product-substitute-selection__product product-substitute-selection__product--priority-2"></div></div></div><button type="button" class="product-substitute-selection__action product-substitute-selection__action--submit btn second box-shadow-glow-second save-substitutes disabled">Guardar</button></div><div class="product-substitute-selection__product-slider"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><div class="product-substitute-selection__slider"></div><div class="product-substitute-selection__empty-slider"><div class="text">No se encontraron productos para reemplazar</div></div></div></div></div></div></div></div><div id="substitute-warning" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content substitute-warning"><div class="substitute-warning__header"><span class="font-icn attention"></span><span class="text">Atención</span></div><div class="substitute-warning__main-text">
+				Todavía no elegiste el criterio de sustitución de <span class="product-quantity-overlay">2 productos</span>. De continuar se aplicará el criterio de sustitución Metro.
+			</div><div class="substitute-warning__continue-text">¿Deseas continuar?</div><div class="substitute-warning__actions"><button type="button" class="btn gray-border overlay__close pull-left"><span class="font-icn go-back"></span><span class="text">NO, VOLVER AL CARRO</span></button><button class="btn go-to-checkout primary-border"><span class="text">SÍ, FINALIZAR COMPRA</span></button></div></div></div></div><div id="substitute-phone" class="overlay" style="display: none;"><div class="overlay__wrapper"><button type="button" class="overlay__close"><div class="font-icn cross"></div></button><div class="overlay__content substitute-phone substitute-phone--overlay"><div class="substitute-phone__title">Ingresa tu número de teléfono</div><div class="substitute-phone__text">
+				Te llamaremos por teléfono en caso de que quieras un sustitute en especial para tu pedido o alguno de tus productos <br><a href="#">Más sobre Criterios de Sustitución</a></div><div class="substitute-phone__input-wrapper"><input class="substitute-phone__input" placeholder="Nro. de Teléfono"><button type="button" class="btn substitute-phone__button second submit-phone"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><span class="font-icn check"></span><span class="text">GUARDAR</span><div class="change">Cambiar</div></button></div></div></div></div><!-- /Overlays --><link rel="stylesheet" type="text/css" href="/files/font-face.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,300,600,700,800" rel="stylesheet" type="text/css"><div class="checkout-header clear-fix"><div class="container"><div class="logo-wrapper pull-left"><div class="container-logo-search"><a href="/"><img class="logo" width="75" height="75" src="/arquivos/logo-metro.png?v=636766771575730000" alt="Logo"></a></div><div class="phone"><span class="font-icn phone-header"></span><span class="text sc-1-show" style="color:#ffffff;font-family:12px;">Mercado: 358 2222 / Tecno - Hogar: 358 2220</span><span class="text sc-1-hide">01 8000 113510</span></div></div><div class="item-wrapper pull-right"><div class="item item-security"><div class="font-icn security"></div><div class="text">Tu compra es 100% segura</div></div><div class="item item-bonus" style="display:none;"><div class="icn cencosud-points-medium"></div><div class="text">
+                            Con todas tus compras<br>
+                            acumulas <strong>Puntos Cencosud</strong></div></div></div></div></div><div class="checkout-subheader clear-fix"><div class="container"><div class="title pull-left"><span class="font-icn cart"></span><h1>Mi Carrito</h1></div></div></div><div class="wrapper cart-wrapper"><div class="container" style="min-height: 690px;"><div class="loader" style="display: none;"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><div class="cart-empty" style="display: none;"><div class="icn empty-cart"></div><div class="title">Tu carrito está vacío</div><div class="text">Navega por las categorías en el sitio o busca tu producto para realizar una compra.</div><a href="/" class="btn second go-back box-shadow-glow-second"><span class="text">Comenzar a comprar</span></a></div><div class="cart-filled clear-fix" style="display: block;"><div class="cart-items pull-left"><div class="total-items-title">Tienes <span class="totalizers-product-total">2 items</span></div><div class="category-filter-wrapper"><div class="text">Haz click en una burbuja para filtrar por categoría</div><div class="filter-wrapper"><button type="button" class="filter-category cat-todas-las-categorias active" data-category="Todas las categorías" data-tooltip="Todas las categorías" data-tooltip-pos="top"><div class="font-icn-cat cat-todas-las-categorias"></div><div class="quantity">2</div></button><button type="button" class="filter-category cat-leche-y-derivados-lacteos " data-category="Leche y derivados lácteos" data-tooltip="Leche y derivados lácteos" data-tooltip-pos="top"><div class="font-icn-cat cat-leche-y-derivados-lacteos"></div><div class="quantity">1</div></button><button type="button" class="filter-category cat-despensa " data-category="Despensa" data-tooltip="Despensa" data-tooltip-pos="top"><div class="font-icn-cat cat-despensa"></div><div class="quantity">1</div></button></div></div><!-- ORDER SUSBTITUTION TYPE --><div class="select-preferences-wrapper food-site"><div class="text">Selecciona el criterio de sustitución de preferencia:</div><div class="active-preference mobile"><div class="item-preference JBO active"><div class="icon"></div><div class="option-text">Criterio Metro</div><div class="font-icn arrow-tooltip"></div></div></div><div class="preferences"><div class="item-preference JBO active" data-pref="6"><div class="icon"></div><div class="option-text">Criterio Metro</div><div class="radio"></div></div><!-- <div class="item-preference brand" data-pref="3">
+                                         <div class="icon"></div>
+                                         <div class="option-text">Misma marca, distinto tamaño</div>
+                                         <div class="radio"></div>
+                                     </div>
+                                     <div class="item-preference size" data-pref="5">
+                                         <div class="icon"></div>
+                                         <div class="option-text">Mismo tamaño, diferente marca</div>
+                                         <div class="radio"></div>
+                                     </div> --><div class="item-preference sel" data-pref="1"><div class="icon"></div><div class="option-text">Yo Elijo</div><div class="radio"></div></div><div class="item-preference not" data-pref="2"><div class="icon"></div><div class="option-text">No sustituir</div><div class="radio"></div></div><div class="item-preference contact" data-pref="7"><div class="icon"></div><div class="option-text">Contáctenme por teléfono</div><div class="radio"></div></div></div></div><div class="substitute-phone" style="display: none;"><div class="substitute-phone__text"><div class="title js-sustitute-text phone" style="display: none;">Contáctame por teléfono</div>
+
+                                En caso que uno de tus productos necesite ser sustituido y selecciones esta opción, te llamaremos para confirmar los productos que tenemos disponibles. No olvides incluir un número telefónico al que puedas tener acceso en cualquier momento.
+                            </div><div class="substitute-phone__input-wrapper"><input class="substitute-phone__input" placeholder="Nro. de Teléfono"><button type="button" class="btn substitute-phone__button second submit-phone"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><span class="font-icn check"></span><span class="text">GUARDAR</span><div class="change">Cambiar</div></button></div></div><div class="what-jumbo-wrapper food-site" style="display: block;"><div class="title js-sustitute-text store-criteria show" style="display: none;">¿Qué es el Criterio de Metro?</div><div style="display: none" class="content-text js-sustitute-text store-criteria show">En caso que uno de tus productos necesite ser sustituido, te enviaremos la mejor opción disponible, garantizándote como mínimo la calidad y cantidad de tu producto original.</div><div class="title js-sustitute-text same-brand" style="display: none;">Misma marca distinto tamaño</div><div style="display: none" class="content-text js-sustitute-text same-brand">En caso que uno de tus productos necesite ser sustituido, te enviaremos un producto de la misma marca que elejiste con un tamaño diferente.</div><div class="title js-sustitute-text similar-price" style="display: none;">Mismo tamaño distinta marca</div><div style="display: none" class="content-text js-sustitute-text similar-price">En caso que uno de tus productos necesite ser sustituido, te enviaremos un producto que cumpla con el tamaño que pediste originalmente pero de una marca diferente.</div><div class="title js-sustitute-text specific" style="display: none;">Yo Elijo</div><div style="display: none" class="content-text js-sustitute-text specific">En caso en que uno de tus productos no esté disponible al momento de enviártelo, elije la forma en que te gustaría que hiciéramos el cambio de este producto.</div><div class="title js-sustitute-text none" style="display: none;">No sustituir</div><div style="display: none" class="content-text js-sustitute-text none">En caso que uno de tus productos necesite ser sustituido y selecciones esta opción no realizaremos ningún cambio.</div></div><!-- /ORDER SUSBTITUTION TYPE --><div class="cart-products-wrapper" style="min-height: 544px;"><div class="cart-products-header"><span class="field field-info">Producto</span><span class="field field-price">Precio</span><span class="field field-quantity">Cantidad</span><span class="field field-total-price">Subtotal</span><span class="field field-substitute food-site">Sustituir Producto <span class="font-icn info" data-tooltip="Serán sustituidos aquellos productos que no cuenten con stock" data-tooltip-pos="top" data-tooltip-style="1 small"></span></span></div><div class="cart-products-items" style="position: relative; height: 250.782px;"><div class="product-item gotten-product-item-data product-item--23477 product-item--inline product-item--cart cat-leche-y-derivados-lacteos    substitute-type--store-criteria" data-id="23477" data-sku="23477" data-index="0" style="position: absolute; left: 0px; top: 0px;"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><button button="type" class="item-remove font-icn cross" data-index="0"></button><a href="/leche-entera-bolsa-x-1100-x-6-und-colanta/p" title="Leche entera bolsa x 1100 x 6 und Colanta" class="product-item__image-wrapper"><div class="product-item__cart-quantity mobile">
+                        x1
+                    </div><img width="90" height="90" src="https://metrocolombiafood.vteximg.com.br/arquivos/ids/161288-90-90/7702129003612-1.jpg?v=636670254571100000" alt="Leche entera bolsa x 1100 x 6 und Colanta"></a><div class="product-item__info"><a href="/leche-entera-bolsa-x-1100-x-6-und-colanta/p" title="Leche entera bolsa x 1100 x 6 und Colanta" class="product-item__name">Leche entera bolsa x 1100 x 6 und Colanta</a><div class="product-item__brand">COLANTA</div>
+                    <div class="product-item__toggle-info mobile"><div class="font-icn plus"></div><div class="font-icn minus"></div></div></div>
+
+
+
+                <div class="product-prices__wrapper product-prices__wrapper--single ">
+
+
+                    <div class="product-prices__price product-prices__price--regular-price"><span class="product-prices__label"></span><span class="product-prices__value" data-price="17990" data-unit_multiplier="1">
+                    $17.990
+            </span></div>
+
+                </div>
+
+
+
+
+
+                <div class="product-item__quantity product-quantity product-quantity--has-switch product-quantity--one-col"><div class="product-quantity__input-wrapper"><button class="product-quantity__control product-quantity__control--increase font-icn plus item-quantity-more "></button><input type="text" value="1" class="product-quantity__input" style="display: block"><input type="text" value="1" class="product-quantity__input--hidden" style="display: none"><button class="product-quantity__control product-quantity__control--decrease font-icn minus item-quantity-less  product-quantity__control--disabled"></button></div></div><div class="product-item__subtotal">
+                     $17.990 
+                </div>
+
+                <div class="product-item__substitute food-site">
+                    <div class="column"><select class="select select-pref select2-hidden-accessible" data-placeholder="Seleccione un criterio" tabindex="-1" aria-hidden="true"><option data-pref="6" value="6" selected="selected">Criterio Metro</option><option data-pref="2" value="2">No Sustituir</option><option data-pref="7" value="7">Por Teléfono</option><option class="placeholder" value="0" disabled="disabled">Seleccione un criterio</option></select><span class="select2 select2-container select2-container--select-pref" dir="ltr" style="width: 162px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-ne8s-container"><span class="select2-selection__rendered" id="select2-ne8s-container" title="Criterio Metro">Criterio Metro</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span><div class="product-item__view-substitutes" data-index="0">Ver sustitutos elegidos</div><div class="product-item__change-phone">Cambiar Teléfono</div></div><div class="column"><div class="btn second-border product-item__toggle-additional" data-index="0" data-tooltip="Agregar notas, Envolver para regalo" data-tooltip-pos="top" data-tooltip-show-active="false"><span class="open-text">MÁS OPCIONES</span><span class="close-text">CERRAR</span></div></div>
+                </div>
+
+
+                <div class="product-item__additional"><div class="product-item__note"><div class="note-button"><span class="font-icn-cat icon-notes"></span>Agregar Notas</div><textarea name="product-note" class="product-note-input" maxlength="100" placeholder="Escribe un comentario sobre éste producto..."></textarea></div><div class="gift-btn-wrapper"><button data-id="23477" data-quantity="1" class="paper-gift-add hide-btn "><span class="font-icn check hide"></span><span class="font-icn-cat gift-small"></span><span>Envolver para Regalo</span></button>
+                    </div>
+
+
+
+                </div>
+            </div><div class="product-item gotten-product-item-data product-item--23309 product-item--inline product-item--cart cat-despensa    substitute-type--store-criteria" data-id="23309" data-sku="23309" data-index="1" style="position: absolute; left: 0px; top: 125px;"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><button button="type" class="item-remove font-icn cross" data-index="1"></button><a href="/huevos-rojo-tipo-a-maxima-x-30-und/p" title="Huevos rojo tipo A Máxima x 30 und" class="product-item__image-wrapper"><div class="product-item__cart-quantity mobile">
+                        x1
+                    </div><img width="90" height="90" src="https://metrocolombiafood.vteximg.com.br/arquivos/ids/161171-90-90/7703616076478-1.jpg?v=636670254405900000" alt="Huevos rojo tipo A Máxima x 30 und"></a><div class="product-item__info"><a href="/huevos-rojo-tipo-a-maxima-x-30-und/p" title="Huevos rojo tipo A Máxima x 30 und" class="product-item__name">Huevos rojo tipo A Máxima x 30 und</a><div class="product-item__brand">MAXIMA</div>
+                    <div class="product-item__toggle-info mobile"><div class="font-icn plus"></div><div class="font-icn minus"></div></div></div>
+
+
+
+                <div class="product-prices__wrapper product-prices__wrapper--single ">
+
+
+                    <div class="product-prices__price product-prices__price--regular-price"><span class="product-prices__label"></span><span class="product-prices__value" data-price="9190" data-unit_multiplier="1">
+                    $9.190
+            </span></div>
+
+                </div>
+
+
+
+
+
+                <div class="product-item__quantity product-quantity product-quantity--has-switch product-quantity--one-col"><div class="product-quantity__input-wrapper"><button class="product-quantity__control product-quantity__control--increase font-icn plus item-quantity-more "></button><input type="text" value="1" class="product-quantity__input" style="display: block"><input type="text" value="1" class="product-quantity__input--hidden" style="display: none"><button class="product-quantity__control product-quantity__control--decrease font-icn minus item-quantity-less  product-quantity__control--disabled"></button></div></div><div class="product-item__subtotal">
+                     $9.190 
+                </div>
+
+                <div class="product-item__substitute food-site">
+                    <div class="column"><select class="select select-pref select2-hidden-accessible" data-placeholder="Seleccione un criterio" tabindex="-1" aria-hidden="true"><option data-pref="6" value="6" selected="selected">Criterio Metro</option><option data-pref="2" value="2">No Sustituir</option><option data-pref="7" value="7">Por Teléfono</option><option class="placeholder" value="0" disabled="disabled">Seleccione un criterio</option></select><span class="select2 select2-container select2-container--select-pref" dir="ltr" style="width: 162px;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-xl4v-container"><span class="select2-selection__rendered" id="select2-xl4v-container" title="Criterio Metro">Criterio Metro</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span><div class="product-item__view-substitutes" data-index="1">Ver sustitutos elegidos</div><div class="product-item__change-phone">Cambiar Teléfono</div></div><div class="column"><div class="btn second-border product-item__toggle-additional disabled" data-index="1" data-tooltip="Agregar notas, Envolver para regalo" data-tooltip-pos="top" data-tooltip-show-active="false" style="visibility: hidden;"><span class="open-text">MÁS OPCIONES</span><span class="close-text">CERRAR</span></div></div>
+                </div>
+
+
+                <div class="product-item__additional"><div class="product-item__note disabled" style="visibility: hidden;"><div class="note-button"><span class="font-icn-cat icon-notes"></span>Agregar Notas</div><textarea name="product-note" class="product-note-input" maxlength="100" placeholder="Escribe un comentario sobre éste producto..."></textarea></div><div class="gift-btn-wrapper"><button data-id="23309" data-quantity="1" class="paper-gift-add hide-btn "><span class="font-icn check hide"></span><span class="font-icn-cat gift-small"></span><span>Envolver para Regalo</span></button>
+                    </div>
+
+
+
+                </div>
+            </div></div><div class="cart-delete-items"><button id="deleteItems">Vaciar Carrito</button></div><div class="products-not-found"><div class="products-not-found__title">No encontraste algún producto?</div><div class="products-not-found__text">Escríbenos cuál producto no encontraste y los buscaremos para que lo tengas disponible lo más pronto posible. <br>Cliquea Enter después de cada item o sepáralos por comas</div><div class="products-not-found__product-list search-product-list--products-not-found"><span class="products-not-found__check-icon font-icn check"></span><div class="search-product-list__input-wrapper"><div class="search-product-list__list-items"></div><input type="text" class="search-product-list__search-input" id="search-list-item-input" value="" size="0" placeholder="Ej.: arroz,carne,huevos,azúcar"></div></div></div></div></div><div class="cart-totalizers pull-right"><div class="coupon-wrapper"><label class="coupon-label" for="coupon-input">Cupón de descuento:</label><div class="coupon-input-wrapper clear-fix"><input type="text" class="coupon-input pull-left" name="cupon-input" value="" id="coupon-input" placeholder="Cupón de descuento"><button type="button" class="btn red-border submit-coupon pull-right"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div><span class="font-icn check"></span><span class="text">Agregar</span></button></div><div class="coupon-error"><span class="font-icn alert"></span><span class="text">Cupón incorrecto</span></div><div class="coupon-success"><button type="button" class="remove-coupon"><span class="font-icn cross"></span><span class="text">Eliminar cupón</span></button></div></div><div class="total-prices-wrapper"><div class="total-prices">
+                <div class="price clear-fix items"><div class="text pull-left">
+                        Subtotal  
+                    </div><div class="value pull-right">
+                        $27.180
+                    </div></div>
+                <div class="price clear-fix shipping"><div class="text pull-left">
+                          
+                        Envío
+                    </div><div class="value pull-right">
+                        $0
+                    </div></div>
+
+                <div class="price clear-fix total "><div class="text pull-left">Total</div><div class="value pull-right">$27.180</div></div><div class="price clear-fix total --cencosud" style="display: none;"><div class="text pull-left"><span class="icn cencosud-card --small"></span><p class="detail">Pagando con <br><strong>Tarjeta Cencosud</strong></p></div><div class="value pull-right">$27.180</div></div></div></div><div class="terms-and-policies"><label class="checkbox terms-label"><input type="checkbox" id="opt-in-terms"><span class="terms-text">He leído y acepto los <a href="/institucional/terminos-y-condiciones" target="_blank">Términos y Condiciones</a> así como las <a href="/institucional/preguntas-frecuentes" target="_blank">Preguntas Frecuentes</a> del sitio. Acepto también las Politicas de Privacidad y tratamiento de datos personales.</span></label></div><button type="button" class="btn secondary go-to-checkout" disabled="true"><span class="boxClick" style="position: absolute; width: 100%; height: 100%; z-index: 2; opacity: 0; top: 0px; left: 0px;"></span><span class="font-icn cart"></span><span class="text">Finalizar compra</span></button><button class="minicart__action minicart__action--add-shop-list cart-button btn gray-border"><span class="font-icn lists"></span><span class="text normal-element">GUARDAR EN MIS LISTAS</span><span class="text stored-element">GUARDADO EN MIS LISTAS</span><span class="font-icn check stored-element"></span></button><div class="go-to-checkout go-to-checkout--floating box-shadow-3 disabled mobile"><div class="totalizers"><div class="totalizers__title">Total</div><div class="totalizers__value">$27.180</div></div><div class="btn secondary font-icn cart"></div></div><div class="cart__free-shipping"><div class="free-shipping-thermometer"><div class="progress-wrapper"><div class="progress" style="width: 14.4%;"><div class="bar" style=""></div><div class="foam"><img src="/arquivos/espuma.png?v=636887768023330000" alt=""></div><div class="bubbles"><div class="bubble bubble-1"></div><div class="bubble bubble-2"></div><div class="bubble bubble-3"></div><div class="bubble bubble-4"></div><div class="bubble bubble-5"></div></div></div></div><div class="truck"><div class="font-icn arrow-termometro"></div><div class="font-icn delivery-termometro"></div></div><div class="truck-bg"></div><div class="background"><svg class="thermometer desktop" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="240.342px" height="44.975px" viewBox="0 0 240.342 44.975" xml:space="preserve">
+    <g id="Layer_1">
+        <path style="fill:#D1D1D1;" d="M217.853,44.975c-8.932,0-16.946-5.23-20.556-13.367H9.185C4.12,31.607,0,27.486,0,22.422         s4.12-9.186,9.185-9.186h188.169C200.992,5.179,208.983,0,217.853,0c12.4,0,22.489,10.088,22.489,22.488         C240.342,34.888,230.253,44.975,217.853,44.975z M9.185,14.736c-4.237,0-7.685,3.447-7.685,7.686s3.447,7.686,7.685,7.686H198.29         l0.192,0.461c3.274,7.84,10.878,12.906,19.37,12.906c11.573,0,20.989-9.414,20.989-20.986c0-11.573-9.416-20.988-20.989-20.988         c-8.433,0-16.016,5.017-19.318,12.78l-0.194,0.456H9.185z"></path>
+        <g>
+            <path style="fill:#FFFFFF;" d="M197.297,31.607H9.185C4.12,31.607,0,27.486,0,22.422v22.553h217.853             C208.921,44.975,200.906,39.744,197.297,31.607z"></path>
+            <path style="fill:#FFFFFF;" d="M217.853,44.975h22.489V22.488C240.342,34.888,230.253,44.975,217.853,44.975z"></path>
+            <path style="fill:#FFFFFF;" d="M9.185,13.236h188.169C200.992,5.179,208.983,0,217.853,0H0v22.422             C0,17.357,4.12,13.236,9.185,13.236z"></path>
+            <path style="fill:#FFFFFF;" d="M217.853,0c12.4,0,22.489,10.088,22.489,22.488V0H217.853z"></path>
+        </g>
+    </g>
+</svg><svg class="thermometer mobile" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 480 80" enable-background="new 0 0 480 80" xml:space="preserve">
+<g id="Layer_1">
+    <g>
+        <g>
+            <g>
+                <defs>
+                    <rect id="SVGID_36_" x="-111.34" y="-372.71" width="319.054" height="95.646"></rect>
+                </defs>
+                <clipPath id="SVGID_1_">
+                    <use xlink:href="#SVGID_36_" overflow="visible"></use>
+                </clipPath>
+                <g clip-path="url(#SVGID_1_)">
+                    <g>
+                        <defs>
+                            <rect id="SVGID_38_" x="-181.775" y="-380.8" width="391.177" height="247.542"></rect>
+                        </defs>
+                        <clipPath id="SVGID_2_">
+                            <use xlink:href="#SVGID_38_" overflow="visible"></use>
+                        </clipPath>
+                        <g id="jPzeJz_7_" clip-path="url(#SVGID_2_)">
+
+                                <image overflow="visible" width="473" height="630" id="jPzeJz_8_" xlink:href="D65EE6D7985BBA0D.jpg" transform="matrix(-0.9168 0 0 0.9168 214.2698 -562.0624)">
+                            </image>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <path fill="#D1D1D1" d="M438.572,73.731c-13.398,0-25.419-7.845-30.834-20.051H23.763c-7.597,0-13.777-6.181-13.777-13.778         s6.18-13.778,13.777-13.778h384.061c5.457-12.086,17.445-19.854,30.748-19.854c18.601,0,33.734,15.132,33.734,33.732         C472.306,58.6,457.173,73.731,438.572,73.731z M23.763,28.374c-6.356,0-11.527,5.171-11.527,11.528S17.407,51.43,23.763,51.43         h385.464l0.289,0.691c4.912,11.76,16.316,19.359,29.056,19.359c17.36,0,31.484-14.122,31.484-31.479         c0-17.359-14.124-31.482-31.484-31.482c-12.649,0-24.023,7.525-28.978,19.17l-0.291,0.685H23.763z"></path>
+    <path fill="#FFFFFF" d="M0,0v80h480V0H0z M438.572,73.731c-13.398,0-25.419-7.845-30.834-20.051H23.763         c-7.597,0-13.777-6.181-13.777-13.778s6.18-13.778,13.777-13.778h384.061c5.457-12.086,17.445-19.854,30.748-19.854         c18.601,0,33.734,15.132,33.734,33.732C472.306,58.6,457.173,73.731,438.572,73.731z"></path>
+</g>
+</svg></div></div><div class="free-shipping-thermometer__shipping-text">
+                                Faltan <span class="value">$122.820</span> para el Envío Gratis <span class="gray-bold"> de tus productos de mercado</span></div></div><a href="/" class="btn gray-border exit-cart"><span class="font-icn go-back"></span><span class="text">Seguir comprando</span></a><div class="certificates-wrapper"><img class="digicert" src="/arquivos/letsencrypt-certified.png?v=636766765771470000"><img class="vtex-certificate" src="/arquivos/vtex-certified.png?v=636766765782000000"></div><div class="braindw-custom-checkout"></div></div></div></div></div><div class="checkout-loader"><div class="loader"><svg class="spinner-loader" width="60px" height="60px" viewBox="0 0 80 80"><path class="spinner-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path><path id="spinner-loader-circle" class="preload-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"></path></svg></div></div><div class="checkout-footer clear-fix"><div class="container center"><div class="text"><span>Todos los derechos reservados Metro 2019 | Empowered By </span><a class="blacksip-icon"></a><a href="https://www.vtex.com/es/" target="_blank" class="vtex-icon"></a></div></div></div><div class="overlay storePickup template" style="display: none;"><div class="icon close"></div><div class="content"><div class="left"><div class="title">Elegí una sucursal para retirar tus productos</div><div class="selector-wrapper regions"><span>Provincia</span><div class="selector"><div class="arrow"></div><div class="default" data-default="Seleccionar">Seleccionar</div><div class="options" data-bind="foreach: states"><div class="option" data-bind="text: name, attr:{ &quot;data-id&quot;: id }"></div></div></div></div><div class="selector-wrapper stores"><span>Sucursal</span><div class="selector"><div class="arrow"></div><div class="default" data-default="Seleccionar">Seleccionar</div><div class="options" data-bind="foreach: stores"><div class="option" data-bind="text: name, attr:{ &quot;data-id&quot;: id }, css: instant == true ? &quot;instant&quot; : &quot;&quot;"></div></div></div></div><div class="store-info"><div class="store"><div class="item name" data-bind="text: store.name"></div><div class="item address"><span class="key">Dirección: </span><span class="value" data-bind="text: store.address"></span></div><div class="item phone"><span class="key">Teléfono: </span><span class="value" data-bind="text: store.phone"></span></div><div class="item schedule"><span class="key">Horario: </span><span class="value" data-bind="text: store.schedule"></span></div><div class="item eta" data-bind="ifnot: store.instant"><span class="key">Tiempo de entrega: </span><span class="value" data-bind="text: store.eta"></span> días hábiles
+                            </div><div class="item instant" data-bind="if: store.instant">Retiro inmediato.</div></div><div class="confirmStore">SELECCIONAR</div></div></div><div class="right"><div class="SPMap-canvas"></div></div></div></div><!-- LIBRARIES --><script src="/files/bxslider.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-726830709"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js");fbq("init","321840911355375");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=321840911355375&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="">try{Fizzmod.Utils.getSKU(skuJson.skus[0].sku).done(function(b){if(b.length){console.log("RES",b);var c=b[0].items[0],d=c.ean;c=c.ean;b=b[0].brand;var e="6859",f="f5",g=document.getElementsByTagName("head")[0],a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//media.flixfacts.com/js/loader.js";a.setAttribute("data-flix-distributor",e);a.setAttribute("data-flix-language",f);a.setAttribute("data-flix-brand",b);a.setAttribute("data-flix-ean",c);a.setAttribute("data-flix-mpn",
+d);a.setAttribute("data-flix-button","flix-minisite");a.setAttribute("data-flix-inpage","flix-inpage");a.setAttribute("data-flix-fallback-language","");a.setAttribute("data-flix-price","");g.appendChild(a);$(".content-description .loader").fadeOut()}})}catch(b){console.warn("Flix Media product not found")};</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","954684501540800");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=954684501540800&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-726830709");</script>
+<script src="/files/swiper.min.js" type="text/javascript" charset="utf-8"></script><script src="/files/mprogress.js" type="text/javascript" charset="utf-8"></script><script src="/files/jquery.menu-aim.js" type="text/javascript" charset="utf-8"></script><script src="/files/jquery.mobile.custom.js" type="text/javascript" charset="utf-8"></script><script src="https://maps.googleapis.com/maps/api/js?v=3&amp;client=gme-cencosud&amp;libraries=places,geometry"></script><script src="/files/global.js" type="text/javascript" charset="utf-8"></script><script src="/files/isotope.js"></script><script src="/files/cart.js"></script><link rel="stylesheet" href="/files/bag-adder.css"><script src="/files/overlay-paper-gift.js"></script><script src="/files/bag-adder.js"></script><!--<script src="/arquivos/clickTerms-v2.js?v=636704826192570000"></script>--><script src="/files/Newlook.min.js"></script><script src="/files/offersCollection.js" type="text/javascript" charset="utf-8"></script><script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/track.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/thickbox.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/json2.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/vtex.viewpart.callcenterdisclaimer.js?v=1.4.1321.2048" type="text/javascript"></script>
+<script language="javascript" src="https://metrocolombiafood.vteximg.com.br/scripts/vtex.viewpart.ajaxloader_v2.js?v=1.4.1321.2048" type="text/javascript"></script>
+
+<div style="display: none; visibility: hidden;"><script type="text/javascript">console.log("bdw-start");
+try{console.log("bdw-start-ready"),$(document).ready(function(){console.log("bdw-start-ready-ok");var a="false";try{a=navigator.cookieEnabled}catch(c){}try{console.log("bdw-start-ready-beginajax"),$.ajax({async:!0,type:"GET",cache:"false",url:"https://s.braindw.com/Script/braindw/metro_co_produccion_adlia?browsercookie\x3d"+a+"\x26hs\x3d"+new Date,error:function(){},success:function(a){console.log("bdw-start-ready-beginajax-succress");var b=document.createElement("script");b.setAttribute("type","text/javascript");
+b.text=a;document.getElementsByTagName("body")[0].appendChild(b)},timeout:1E4,xhrFields:{withCredentials:!0},crossDomain:!0})}catch(c){console.log("bdw-ajax"+c)}})}catch(a){console.log("bdw-ready"+a)};</script>
+</div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-90f3a29ef7448451db5af955688970d7.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script type="text/javascript"></script></body></html>
